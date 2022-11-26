@@ -1,5 +1,5 @@
 
-<h2>Usage<h2/>
+<h2>Usage</h2>
 
 Run program with `python main.py`, the program takes `input.txt` file as an input 
 (it is possible to modify `input.txt` file for other test cases).
@@ -7,7 +7,7 @@ Run program with `python main.py`, the program takes `input.txt` file as an inpu
 No third party libraries were used, so standard Python setup is enough.
 
 
-<h2>Design decisions<h2/>
+<h2>Design decisions</h2>
 
 - Structure
   - `RobotWars` is an abstract class which describes interface described in problem description,
